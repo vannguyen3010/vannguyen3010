@@ -1,11 +1,10 @@
-
+<a href="https://github.com/nguyenthihuynhnhi" data-target="animated-image.originalLink"><img src="/nguyenthihuynhnhi/nguyenthihuynhnhi/raw/main/assets/hocbaitrongmua.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 ## <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm <a href="https://github.com/vannguyen3010">VO VAN NGUYEN</a></h1>
 
 
 
-https://github.com/user-attachments/assets/07e49b41-eea5-4e63-873c-e7987c3ca338
 
-
+![ezgif-2-53c3e8da9b](https://github.com/user-attachments/assets/407a6947-f022-4e10-8ba4-f8febf3193cf)
 
 
 
