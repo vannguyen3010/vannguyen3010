@@ -1,4 +1,4 @@
-<a href="https://github.com/nguyenthihuynhnhi" data-target="animated-image.originalLink"><img src="https://github.com/user-attachments/assets/58090687-1cbb-42cc-ae39-38e60bd0c2f3" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<img src="https://github.com/user-attachments/assets/58090687-1cbb-42cc-ae39-38e60bd0c2f3" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 ## <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm <a href="https://github.com/vannguyen3010">VO VAN NGUYEN</a></h1>
 
 
