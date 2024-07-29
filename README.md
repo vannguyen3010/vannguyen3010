@@ -4,7 +4,8 @@
 <!--
 **vannguyen3010/vannguyen3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://github.com/nguyenthihuynhnhi"> <img src="https://camo.githubusercontent.com/71ebd170d307074601aa932623344e67dcac517a06630255f441779b900cf57a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e677579656e7468696875796e686e6869267374796c653d666f722d7468652d626164676526636f6c6f723d626c7565" data-canonical-src="https://komarev.com/ghpvc/?username=nguyenthihuynhnhi&amp;style=for-the-badge&amp;color=blue" style="max-width: 100%;"> </a>
+<img src="https://camo.githubusercontent.com/71ebd170d307074601aa932623344e67dcac517a06630255f441779b900cf57a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e677579656e7468696875796e686e6869267374796c653d666f722d7468652d626164676526636f6c6f723d626c7565" data-canonical-src="https://komarev.com/ghpvc/?username=nguyenthihuynhnhi&amp;style=for-the-badge&amp;color=blue" style="max-width: 100%;">
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
