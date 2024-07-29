@@ -1,5 +1,9 @@
-<img src="https://github.com/user-attachments/assets/58090687-1cbb-42cc-ae39-38e60bd0c2f3" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 ## <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm <a href="https://github.com/vannguyen3010">VO VAN NGUYEN</a></h1>
+
+
+
+https://github.com/user-attachments/assets/07e49b41-eea5-4e63-873c-e7987c3ca338
 
 
 
