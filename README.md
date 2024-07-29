@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/vannguyen3010"> <img src="https://komarev.com/ghpvc/?username=nguyenthihuynhnhi&style=for-the-badge&color=blue" /> </a>
+            <a target="blank" href="https://github.com/vannguyen3010"> <img src="https://komarev.com/ghpvc/?username=nguyenthihuynhnhi&style=for-the-badge&color=blue" /> </a>
         </td>
     </tr>
 </table>
@@ -43,6 +43,7 @@
             alt="https://www.linkedin.com/in/v%C3%B5-v%C4%83n-nguy%C3%AAn-9a55a924a/"
             height="30"
             width="40"
+             target="blank"
     /></a>
     <a href="https://www.facebook.com/NguyenDev.3010/"
         ><img id="imgfb"
@@ -51,6 +52,7 @@
             alt="long long"
             height="30"
             width="40"
+             target="blank"
     /></a>
     <a href="https://www.instagram.com/vannguyen30.10/" 
         ><img
@@ -59,6 +61,7 @@
             alt="vulebaolong/"
             height="30"
             width="40"
+             target="blank"
     /></a>
 </p>
 
