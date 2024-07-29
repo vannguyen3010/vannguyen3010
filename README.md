@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <td>
-            <a target="blank" href="https://github.com/vannguyen3010"> <img src="https://komarev.com/ghpvc/?username=nguyenthihuynhnhi&style=for-the-badge&color=blue" /> </a>
+            <a href="https://github.com/vannguyen3010"> <img src="https://komarev.com/ghpvc/?username=nguyenthihuynhnhi&style=for-the-badge&color=blue" /> </a>
         </td>
     </tr>
 </table>
