@@ -31,7 +31,7 @@
 - 💬 Ask me about: **ASP.Net core, MVC, Blazor, SQL Server**
 - 📫 How to reach me: **vovannguyen30102001@gmail.com**
 - ⚡ Fun fact: **I think I am funny**
-- 📄 Curriculum Vitae: **<a href="https://drive.google.com/file/d/1IxSXlBWDay3Fuf0sA0b1otcg0PFziVEG/view?usp=sharing" target="blank">EN</a>** / **<a href="https://drive.google.com/file/d/15zETnUrHkedBM9sPneMxKVTzQT3L5Mjr/view?usp=sharing" target="blank">VI</a>**
+- 📄 Curriculum Vitae: **<a href="https://drive.google.com/file/d/1IxSXlBWDay3Fuf0sA0b1otcg0PFziVEG/view?usp=sharing" target="blank">EN</a>** / **<a href="https://drive.google.com/file/d/1xGuuUET84yTQF6zka8qpnP0ZfUknTY8b/view?usp=sharing" target="blank">VI</a>**
 
 ## Connect with me:
 
