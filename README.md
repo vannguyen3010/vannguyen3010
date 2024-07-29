@@ -1,4 +1,4 @@
-## Hi there 👋
+## <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm <a href="https://github.com/vannguyen3010">VO VAN NGUYEN</a></h1>
 
 <!--
 **vannguyen3010/vannguyen3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
