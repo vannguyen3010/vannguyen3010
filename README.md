@@ -36,32 +36,29 @@
 ## Connect with me:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/v%C3%B5-v%C4%83n-nguy%C3%AAn-9a55a924a/" target="blank"
+    <a target="blank" href="https://www.linkedin.com/in/v%C3%B5-v%C4%83n-nguy%C3%AAn-9a55a924a/" target="blank"
         ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/v%C3%B5-v%C4%83n-nguy%C3%AAn-9a55a924a/"
             height="30"
             width="40"
-             target="blank"
     /></a>
-    <a href="https://www.facebook.com/NguyenDev.3010/"
+    <a target="blank" href="https://www.facebook.com/NguyenDev.3010/"
         ><img id="imgfb"
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="long long"
             height="30"
             width="40"
-             target="blank"
     /></a>
-    <a href="https://www.instagram.com/vannguyen30.10/" 
+    <a target="blank" href="https://www.instagram.com/vannguyen30.10/" 
         ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="vulebaolong/"
             height="30"
             width="40"
-             target="blank"
     /></a>
 </p>
 
