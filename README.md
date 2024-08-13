@@ -26,7 +26,9 @@
 </table>
 
 ## What I'm Doing:
-
+<a target="_blank" align="center">
+  <img align="right" margin-top="700" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 - 🌱 I’m currently learning: **.NET Developer**
 
 - 💬 Ask me about: **ASP.Net core, MVC, Blazor, SQL Server**
@@ -50,7 +52,8 @@
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/vannguyen30.10/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://www.facebook.com/NguyenDev.3010/">
-					<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" ></a>
+					<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35"
+            width="40" ></a>
       </div>
 
 </p>
