@@ -28,39 +28,33 @@
 ## What I'm Doing:
 
 - 🌱 I’m currently learning: **.NET Developer**
+
 - 💬 Ask me about: **ASP.Net core, MVC, Blazor, SQL Server**
-- 📫 How to reach me: **vovannguyen30102001@gmail.com**
+
+-  📫 How to reach me: **vovannguyen30102001@gmail.com**
+
 - ⚡ Fun fact: **I think I am funny**
-- 📄 Curriculum Vitae: **<a href="https://drive.google.com/file/d/1R_v3dM315TybatIii5jMN_ZjWlSzyfEE/view?usp=sharing" target="blank">EN</a>** / **<a href="https://drive.google.com/file/d/1Jqn3Uc4a4RMoEMJzdhpj6d5TeG5rrp8t/view?usp=sharing" target="blank">VI</a>**
 
-## Connect with me:
+-📄 Curriculum Vitae: **<a href="https://drive.google.com/file/d/1R_v3dM315TybatIii5jMN_ZjWlSzyfEE/view?usp=sharing" target="blank">EN</a>** / **<a href="https://drive.google.com/file/d/1Jqn3Uc4a4RMoEMJzdhpj6d5TeG5rrp8t/view?usp=sharing" target="blank">VI</a>**
 
-<p align="left">
-    <a target="blank" href="https://www.linkedin.com/in/v%C3%B5-v%C4%83n-nguy%C3%AAn-9a55a924a/" target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/v%C3%B5-v%C4%83n-nguy%C3%AAn-9a55a924a/"
-            height="30"
-            width="40"
-    /></a>
-    <a target="blank" href="https://www.facebook.com/NguyenDev.3010/"
-        ><img id="imgfb"
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt=""
-            height="30"
-            width="40"
-    /></a>
-    <a target="blank" href="https://www.instagram.com/vannguyen30.10/" 
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="/"
-            height="30"
-            width="40"
-    /></a>
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/v%C3%B5-v%C4%83n-nguy%C3%AAn-9a55a924a/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/vannguyen3010">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/vannguyen30.10/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://www.facebook.com/NguyenDev.3010/">
+					<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" ></a>
+      </div>
+
 </p>
+
 
 ## Languages, Tools I Know:
 
