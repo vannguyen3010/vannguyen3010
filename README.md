@@ -1,4 +1,7 @@
 <p align="center">
+	<a target="_blank" align="center">
+  <img margin-top="700" height="600" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 <br/>
     <img
         align="center"
@@ -26,9 +29,7 @@
 </table>
 
 ## What I'm Doing:
-<a target="_blank" align="center">
-  <img align="right" margin-top="700" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+
 - 🌱 I’m currently learning: **.NET Developer**
 
 - 💬 Ask me about: **ASP.Net core, MVC, Blazor, SQL Server**
