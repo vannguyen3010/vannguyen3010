@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning: **.NET Developer**
 
-- 💬 Ask me about: **ASP.Net core, MVC, Blazor, SQL Server**
+- 💬 Ask me about: **ASP.Net core, MVC, Blazor, SQL Server, Javascript, Jquery,WebAPI,**
 
 -  📫 How to reach me: **vovannguyen30102001@gmail.com**
 
