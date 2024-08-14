@@ -1,7 +1,5 @@
 <p align="center">
-	<a target="_blank" align="center">
-  <img margin-top="700" height="600" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+
 <br/>
     <img
         align="center"
@@ -12,7 +10,11 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/vannguyen3010">VO VAN NGUYEN</a></h1>
 <h5 align="center">A passionate web developer from Viet Nam</h5>
-
+<p align="center">
+		<a target="_blank" align="center">
+  <img margin-top="700" height="600" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+</p>
 ## Profile Views:
 
 <img align="right" width="300" src="./assets/computer.gif" alt="coding" />
