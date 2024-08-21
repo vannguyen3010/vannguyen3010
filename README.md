@@ -40,7 +40,7 @@
 
 - ⚡ Fun fact: **I think I am funny**
 
--📄 Curriculum Vitae: **<a href="https://drive.google.com/file/d/1R_v3dM315TybatIii5jMN_ZjWlSzyfEE/view?usp=sharing" target="blank">EN</a>** / **<a href="https://drive.google.com/file/d/1Jqn3Uc4a4RMoEMJzdhpj6d5TeG5rrp8t/view?usp=sharing" target="blank">VI</a>**
+-📄 Curriculum Vitae: **<a href="https://drive.google.com/file/d/1j5FMKx02De1FSSL_katQUdmK4UqtDu4T/view?usp=sharing" target="blank">EN</a>** / **<a href="https://drive.google.com/file/d/1Jqn3Uc4a4RMoEMJzdhpj6d5TeG5rrp8t/view?usp=sharing" target="blank">VI</a>**
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>
