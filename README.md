@@ -36,7 +36,7 @@
 
 - ⚡ Fun fact: **I think I am funny**
 
--📄 Curriculum Vitae: **<a href="https://drive.google.com/file/d/128Rn-XC6hJOkGfzKvdU10ShgKnM3xKlV/view?usp=sharing" target="blank">EN</a>** / **<a href="https://drive.google.com/file/d/1K3nFzS-t6NBTwFxc-o4d0VKJF4GG3wa4/view?usp=sharing" target="blank">VI</a>**
+-📄 Curriculum Vitae: **<a href="https://drive.google.com/file/d/1GnHZ8CEQlLuZ2wF_iR8_GChuiOfHhA0q/view?usp=drive_link" target="blank">EN</a>** / **<a href="https://drive.google.com/file/d/1vwZ8rH_iHlnV0MuZqMHoyCa4FO08EtOM/view?usp=drive_link" target="blank">VI</a>**
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>
